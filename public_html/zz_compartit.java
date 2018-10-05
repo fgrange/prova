@@ -14,6 +14,7 @@ public class zz_compartit {
     
     public String getAndres()
     {
+        System.out.print("Ex 3 de la prova final");
       }
     
     public String getCarlos()
