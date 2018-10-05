@@ -23,6 +23,10 @@ public class zz_compartit {
     
     public String getAdrianV()
     {
+        System.out.println("AdrianValeraGarcia");
+        int i=0;
+        i++;
+        System.out.println(i);
       }
     
     public String getIvan()
@@ -44,6 +48,7 @@ public class zz_compartit {
     
     public String getIsmael()
     {
+        System.out.println("Text d'exemple");
       }
     
     public String getDemetrio()
