@@ -82,4 +82,7 @@ public class zz_compartit {
         System.out.print("Excercici 3, afegir codi al arxiu ISSAM");
       }
     
+    public String getDemetrio()
+        {
+          }
 }
