@@ -72,6 +72,7 @@ public class zz_compartit {
     
     public String getIsaam()
     {
+        System.out.print("Excercici 3, afegir codi al arxiu ISSAM");
       }
     
 }
