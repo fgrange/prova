@@ -19,6 +19,8 @@ public class zz_compartit {
     
     public String getCarlos()
     {
+                String nom = "Carlos";
+        return nom;
       }
     
     public String getAdrianV()
@@ -31,11 +33,12 @@ public class zz_compartit {
     
     public String getIvan()
     {
+        System.out.println("Pole. Edit: fail.");
       }
     
     public String getAlex()
     {
-        return "Afegint codi al Ex3 de la prova final";
+        return "Afegint codi al Ex3 de la prova final un altre vegada perque no sortia be el meu usuari.";
       }
     
     public String getDaniel()
@@ -57,6 +60,7 @@ public class zz_compartit {
     
     public String getDemetrio()
     {
+      System.out.print("Hola by Demetrio");
       }
     
     public String getAlbert()
@@ -82,5 +86,4 @@ public class zz_compartit {
     {
         System.out.print("Excercici 3, afegir codi al arxiu ISSAM");
       }
-    
 }
