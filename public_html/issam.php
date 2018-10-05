@@ -10,7 +10,7 @@
             public function Issam(){
                 echo "Hola, PRIMERA MODIFICACIO";
 
-                echo "Fer l'exercici de la UF3 - MP08";
+                echo "HOLA SEGONA MODIFICACIO";
 
                 echo "Lorem ipsum dolor sit amet consectetur adipiscing elit eleifend faucibus ullamcorper,
                       fringilla semper dictumst ac imperdiet vulputate congue euismod himenaeos sapien, 
