@@ -24,6 +24,7 @@ public class zz_compartit {
     public String getAdrianV()
     {
         System.out.println("AdrianValeraGarcia");
+        int i=0;
       }
     
     public String getIvan()
