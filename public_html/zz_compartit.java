@@ -19,6 +19,8 @@ public class zz_compartit {
     
     public String getCarlos()
     {
+                String nom = "Carlos";
+        return nom;
       }
     
     public String getAdrianV()
