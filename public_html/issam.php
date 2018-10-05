@@ -8,7 +8,7 @@
         class IssamClass{
         
             public function Issam(){
-                echo "Hola mundo";
+                echo "Hola, PRIMERA MODIFICACIO";
 
                 echo "Fer l'exercici de la UF3 - MP08";
 
