@@ -31,6 +31,7 @@ public class zz_compartit {
     
     public String getIvan()
     {
+        System.out.println("Pole. Edit: fail.");
       }
     
     public String getAlex()
