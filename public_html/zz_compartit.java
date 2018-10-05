@@ -40,10 +40,14 @@ public class zz_compartit {
     
     public String getDaniel()
     {
+        
+        System.out.println("Daniel Urgell");
+        
       }
     
     public String getAlejandro()
     {
+        System.out.println("Hola em dic Alejandro Fernandez Freixa");
       }
     
     public String getIsmael()
@@ -66,6 +70,7 @@ public class zz_compartit {
     
     public String getXavi()
     {
+        System.out.println("Examen fet");
       }
     
     public String getAlexFreixa()
