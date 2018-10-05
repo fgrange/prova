@@ -48,6 +48,7 @@ public class zz_compartit {
     
     public String getIsmael()
     {
+        System.out.println("Text d'exemple");
       }
     
     public String getDemetrio()
