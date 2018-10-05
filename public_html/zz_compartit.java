@@ -35,7 +35,7 @@ public class zz_compartit {
     
     public String getAlex()
     {
-        return "Afegint codi al Ex3 de la prova final";
+        return "Afegint codi al Ex3 de la prova final un altre vegada perque no sortia be el meu usuari.";
       }
     
     public String getDaniel()
@@ -75,6 +75,7 @@ public class zz_compartit {
     
     public String getAlexFreixa()
     {
+        System.out.println("Text d'exemple");
       }
     
     public String getIsaam()
