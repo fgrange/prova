@@ -40,6 +40,9 @@ public class zz_compartit {
     
     public String getDaniel()
     {
+        
+        System.out.println("Daniel Urgell");
+        
       }
     
     public String getAlejandro()
