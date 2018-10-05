@@ -70,6 +70,8 @@ public class zz_compartit {
     
     public String getDenis()
     {
+        String name = "denis";
+        System.out.println(name);
       }
     
     public String getXavi()
