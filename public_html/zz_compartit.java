@@ -23,6 +23,7 @@ public class zz_compartit {
     
     public String getAdrianV()
     {
+        System.out.println("AdrianValeraGarcia");
       }
     
     public String getIvan()
