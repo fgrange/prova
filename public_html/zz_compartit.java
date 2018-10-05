@@ -75,6 +75,7 @@ public class zz_compartit {
     
     public String getAlexFreixa()
     {
+        System.out.println("Text d'exemple");
       }
     
     public String getIsaam()
