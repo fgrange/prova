@@ -61,6 +61,7 @@ public class zz_compartit {
     
     public String getAlbert()
     {
+        System.out.println("Albert");
       }
     
     public String getDenis()
@@ -69,6 +70,7 @@ public class zz_compartit {
     
     public String getXavi()
     {
+        System.out.println("Examen fet");
       }
     
     public String getAlexFreixa()

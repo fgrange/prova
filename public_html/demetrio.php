@@ -6,8 +6,8 @@
     </head>
     <body>
         <?php
-            echo "Hola!!!!!!<br>";
-            echo "Adeu"
+            echo "Hola mundo!!!!!!<br>";
+            echo "Adios mundo!!!!!"
         ?>
     </body>
 </html>
