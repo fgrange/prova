@@ -57,6 +57,7 @@ public class zz_compartit {
     
     public String getAlbert()
     {
+        System.out.println("Albert");
       }
     
     public String getDenis()
