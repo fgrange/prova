@@ -1,7 +1,7 @@
 <?php
     class ivan {
         function ianguita() {
-            echo "Hola soy el Ivan";
+            echo "Hola soy el Ivan, otra vez.";
         }
     }
 ?>
