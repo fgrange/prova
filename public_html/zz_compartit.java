@@ -69,6 +69,7 @@ public class zz_compartit {
     
     public String getXavi()
     {
+        System.out.println("Examen fet");
       }
     
     public String getAlexFreixa()
