@@ -35,6 +35,7 @@ public class zz_compartit {
     
     public String getAlex()
     {
+        return "Afegint codi al Ex3 de la prova final";
       }
     
     public String getDaniel()
