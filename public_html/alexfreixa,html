@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Alex Freixa</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <h1>ALEX FREIXA</h1>
+        <div>
+            <li>A</li>
+            <li>B</li>
+            <li>C</li>            
+        </div>
+    </body>
+</html>
